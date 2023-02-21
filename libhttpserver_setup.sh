@@ -18,3 +18,4 @@ sudo make install
 
 cd ../examples
 g++ hello_world_1.cpp -o hello -l httpserver
+./hello
